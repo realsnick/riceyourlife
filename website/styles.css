@@ -1,0 +1,23 @@
+.bg-pastel-purple {
+  background-color: #c4a4ff;
+}
+
+.bg-pastel-blue {
+  background-color: #a7d6ff;
+}
+
+.bg-pastel-pink {
+  background-color: #ffabce;
+}
+
+.bg-pastel-yellow {
+  background-color: #ffd966;
+}
+
+.rotate-x-90 {
+  transform: rotateX(90deg);
+}
+
+.rotate-y-90 {
+  transform: rotateY(90deg);
+}
